@@ -1,0 +1,1 @@
+Today i learn about asnychronous, callbacks and callbacks hell in javascript.
