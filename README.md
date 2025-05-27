@@ -1,1 +1,1 @@
-Today i learn about asnychronous, callbacks and callbacks hell in javascript. 
+Today i learn about asnychronous, callbacks and callbacks hell in javascript.I also learned about promise and promise chains.
